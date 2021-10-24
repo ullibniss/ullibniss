@@ -5,6 +5,6 @@
   - ### Linux Administration
   - ### Python
   - ### Bash
-  - ### Networking
+  - ### Networks
   - ### Ansible
   - ### ...comming soon ( 
