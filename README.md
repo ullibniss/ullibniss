@@ -7,6 +7,5 @@
   - Bash
   - Networks
   - Ansible  
-
-...comming soon ( 
-
+ 
+<img src="https://www.codewars.com/users/ullibniss/badges/large" />
