@@ -5,7 +5,7 @@
   - 🐧 Linux Administration
   - 🐍 Python
   - 💲 Bash
-  - 🕸 Networks
+  - 🕸 Cisco
   - 🌊 Terraform fundamentals
   - 🎶 Ansible fundamentals
   - 📈 SRE fundamentals
