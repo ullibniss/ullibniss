@@ -9,7 +9,7 @@
   - 🎶 Ansible
   - 🦊 Gitlab
   - 🔥 Prometheus fundamentals
-  - 📊 Graphana fundamentals
+  - 📊 Grafana fundamentals
   - 📈 SRE fundamentals
 
 ## Codewars 
