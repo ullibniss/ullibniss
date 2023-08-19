@@ -25,8 +25,8 @@
 
 #### CI/CD
 
-[gitlab](https://github.com/ullibniss/ansible-gitlab) - Manage gitlab and gitlab-runners
-[jenkins](https://github.com/ullibniss/ansible-jenkins) - Manage jenkins and jenkins-agents
+[gitlab](https://github.com/ullibniss/ansible-gitlab) - Manage gitlab and gitlab-runners  
+[jenkins](https://github.com/ullibniss/ansible-jenkins) - Manage jenkins and jenkins-agents  
 
 #### Etc
 
