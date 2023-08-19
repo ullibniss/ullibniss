@@ -21,7 +21,12 @@
 #### Trackers
 
 [redmine](https://github.com/ullibniss/ansible-redmine) - Manage redmine service  
-[youtrack](https://github.com/ullibniss/ansible-youtrack) - Manage youtrack service
+[youtrack](https://github.com/ullibniss/ansible-youtrack) - Manage youtrack service  
+
+#### CI/CD
+
+[gitlab](https://github.com/ullibniss/ansible-gitlab) - Manage gitlab and gitlab-runners
+[jenkins](https://github.com/ullibniss/ansible-jenkins) - Manage jenkins and jenkins-agents
 
 #### Etc
 
