@@ -14,21 +14,19 @@
 
 ### Study
 
-[matreshka](https://github.com/ullibniss/matreshka) - container management system implementation  
 [areonRPG](https://github.com/ullibniss/areon-rpg) - simple RPG engine  
-
-### For the soul
-
-[snd](https://github.com/ullibniss/snd)
 
 ### Ansible
 
-[youtrack](https://github.com/ullibniss/ansible-youtrack)  
-[autossh](https://github.com/ullibniss/ansible-autossh)  
+#### Trackers
 
-### Private
+[redmine](https://github.com/ullibniss/ansible-redmine) - Manage redmine service  
+[youtrack](https://github.com/ullibniss/ansible-youtrack) - Manage youtrack service
 
-[MAC address lookup](mac.ullibniss.com)
+#### Etc
+
+[autossh](https://github.com/ullibniss/ansible-autossh) - Make ssh tunnel with ansible
+
 
 ## 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ullibniss)](https://github.com/anuraghazra/github-readme-stats)
