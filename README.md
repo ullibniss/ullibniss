@@ -15,7 +15,9 @@
 ### Study
 
 [areonRPG](https://github.com/ullibniss/areon-rpg) - simple RPG engine  
-
+[[Mephi] DB Security Course](https://github.com/ullibniss/mephi-db-security-2023)  
+[[Mephi] Operating Systems Secutiry](https://github.com/ullibniss/mephi-oss-2022-2023)  
+[[Mephi] Parallel programming](https://github.com/ullibniss/mephi-parallel-programming-22-23)
 ### Ansible
 
 #### Trackers
@@ -30,6 +32,7 @@
 
 #### Etc
 
+[minecraft-server](https://github.com/ullibniss/ansible-minecraft-server) - Easily deploy minecraft server with mods and custom worlds  
 [autossh](https://github.com/ullibniss/ansible-autossh) - Make ssh tunnel with ansible
 
 
