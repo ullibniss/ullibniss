@@ -29,6 +29,7 @@
 
 [gitlab](https://github.com/ullibniss/ansible-gitlab) - Manage gitlab and gitlab-runners  
 [jenkins](https://github.com/ullibniss/ansible-jenkins) - Manage jenkins and jenkins-agents  
+[goCD](https://github.com/ullibniss/ansible-gocd) - Manage gocd server and agents  
 
 #### Etc
 
