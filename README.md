@@ -14,7 +14,7 @@
 
 ### Study
 
-[areonRPG](https://github.com/ullibniss/areon-rpg) - simple RPG engine  
+[[Mephi] areonRPG](https://github.com/ullibniss/areon-rpg) - simple RPG engine  
 [[Mephi] DB Security Course](https://github.com/ullibniss/mephi-db-security-2023)  
 [[Mephi] Operating Systems Secutiry](https://github.com/ullibniss/mephi-oss-2022-2023)  
 [[Mephi] Parallel programming](https://github.com/ullibniss/mephi-parallel-programming-22-23)
