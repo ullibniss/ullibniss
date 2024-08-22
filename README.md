@@ -11,5 +11,13 @@
 7. Other: Cloudflare, Tableau, Openvpn
  
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 15 mins
+
+Go           14 mins         ████████████████████████░   96.25 %
+TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+```
+
 <!--END_SECTION:waka-->
 
