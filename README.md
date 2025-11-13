@@ -44,13 +44,13 @@ I am 24 y.o. developer from Russia. Have a bachelor degree in Mephi University. 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 23 hrs 7 mins
+Total Time: 26 hrs 28 mins
 
-Go           13 hrs 54 mins  ███████████████░░░░░░░░░░   60.14 %
-TypeScript   6 hrs 27 mins   ███████░░░░░░░░░░░░░░░░░░   27.91 %
-YAML         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-Docker       43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-Bash         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Go           15 hrs 15 mins  ██████████████▒░░░░░░░░░░   57.61 %
+TypeScript   6 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   24.38 %
+Docker       2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+YAML         1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Bash         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
